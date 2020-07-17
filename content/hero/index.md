@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+name: 'Willie David Jones III'
+subtitle: 'I solve problems with software.'
 buttonText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
+I'm a software engineer based in Los Angeles, CA who enjoys building exceptional websites, web apps, and automating everything in between.

@@ -1,15 +1,15 @@
 ---
-date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+date: '1'
+title: 'InstaFlix'
+cover: './website.jpg'
+github: 'https://github.com/wjone005/Netflix_Tinder'
 tech:
-  - React
-  - Node.js
-  - Express
-  - Spotify Web API
+  - Flask
+  - Python
+  - Facebook Login API
+  - Google Login API
+  - Open Movie Database API
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A Flask app that generates random move recommendations, with details listed for each title, that a user can swipe through and watch with the click of a button. The website utilizes Open Movie Database, Facebook, Google Login API and Kaggle Netflix Dataset.
