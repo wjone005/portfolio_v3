@@ -109,7 +109,6 @@ export const pageQuery = graphql`
             title
             buttonText
           }
-          html
         }
       }
     }

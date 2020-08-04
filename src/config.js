@@ -5,7 +5,7 @@ module.exports = {
     'Willie David Jones III, Willie, Jones, wjone005, software engineer, front-end engineer, web developer, back-end engineer, fullstack engineer, javascript, python',
   siteUrl: 'https://williedavidjonesiii.com',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
+  googleAnalyticsID: 'UA-66422434-5',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Willie David Jones III',
   location: 'Los Angeles, CA',
