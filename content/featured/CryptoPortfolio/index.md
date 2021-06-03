@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Crypto Returns'
-cover: './website.gif'
+cover: './website.jpg'
 github: 'https://github.com/wjone005/Crypto_Returns'
 tech:
   - Flask
