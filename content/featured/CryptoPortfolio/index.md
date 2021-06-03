@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'InstaFlix'
 cover: './website.jpg'
 github: 'https://github.com/wjone005/Netflix_Tinder'
