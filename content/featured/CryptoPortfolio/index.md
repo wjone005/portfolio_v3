@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Crypto Returns'
+title: 'CryptoReturns'
 cover: './website.jpg'
 github: 'https://github.com/wjone005/Crypto_Returns'
 tech:
