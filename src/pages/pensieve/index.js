@@ -124,7 +124,7 @@ const PensievePage = ({ location, data }) => {
     <Layout location={location}>
       <Helmet>
         <title>Pensieve | Willie David Jones III</title>
-        <link rel="canonical" href="http://williedavidjonesiii.com/pensieve" />
+        <link rel="canonical" href="https://williedavidjonesiii.com/pensieve" />
       </Helmet>
 
       <StyledMainContainer>
