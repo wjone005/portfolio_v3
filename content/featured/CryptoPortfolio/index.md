@@ -7,6 +7,8 @@ tech:
   - Flask
   - Python
   - Coin Gecko API
+  - Auth0 API
+  - Bootstrap
 showInProjects: true
 ---
 
