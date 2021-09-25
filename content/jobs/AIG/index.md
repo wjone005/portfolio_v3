@@ -1,6 +1,6 @@
 ---
 date: '2017-09-13'
-title: 'Citrix IT Support Svcs Analyst II'
+title: 'Software Developer / Citrix Systems Analyst'
 company: 'AIG'
 location: 'Los Angeles, CA'
 range: 'May 2017 - Present'
