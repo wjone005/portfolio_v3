@@ -3,7 +3,7 @@ date: '2017-09-13'
 title: 'Software Developer / Citrix Systems Analyst'
 company: 'AIG'
 location: 'Los Angeles, CA'
-range: 'May 2017 - Present'
+range: 'May 2017 - Aug 2021'
 url: 'https://www.aig.com/'
 ---
 

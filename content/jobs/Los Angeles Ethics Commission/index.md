@@ -3,7 +3,7 @@ date: '2022-05-27'
 title: 'Programmer/Analyst III '
 company: 'Los Angeles Ethics Commission'
 location: 'Los Angeles, CA'
-range: 'May 2021 - Present'
+range: 'Aug 2021 - Present'
 url: 'https://ethics.lacity.org/'
 ---
 
