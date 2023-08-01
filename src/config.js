@@ -9,7 +9,7 @@ module.exports = {
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Willie David Jones III',
   location: 'Los Angeles, CA',
-  email: 'willie.jones005@gmail.com',
+  email: 'williejones005@gmail.com',
   github: 'https://github.com/wjone005',
   socialMedia: [
     {
