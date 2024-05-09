@@ -9,7 +9,7 @@ tech:
   - Coin Gecko API
   - Auth0 API
   - Bootstrap
-showInProjects: true
+showInProjects: false
 ---
 
  A Blockchain portfolio website to track your crypto currency investments.
