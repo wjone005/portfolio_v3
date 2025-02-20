@@ -70,16 +70,21 @@ const Footer = () => {
     if (process.env.NODE_ENV !== 'production') {
       return;
     }
-    fetch('https://github.com/wjone005')
-      .then(response => response.json())
+
+    fetch('https://api.github.com/users/wjone005')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error(`GitHub API responded with status: ${response.status}`);
+        }
+        return response.json();
+      })
       .then(json => {
-        const { stargazers_count, forks_count } = json;
         setGitHubInfo({
-          stars: stargazers_count,
-          forks: forks_count,
+          stars: json.public_repos, // Alternative metric since user profiles don't have stars directly
+          forks: json.followers, // Alternative metric, since forks apply to repos, not users
         });
       })
-      .catch(e => console.error(e));
+      .catch(e => console.error('GitHub API fetch error:', e));
   }, []);
 
   return (
