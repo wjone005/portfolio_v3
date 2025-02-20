@@ -11,6 +11,7 @@ skills:
   - WordPress
   - AWS
   - Git & Github
+  - ColdFusion & Lucee
 ---
 
 Well hello there! My name is Willie and I'm a Programmer/Analyst III at [Los Angeles Ethics Commission](https://ethics.lacity.org) and a contractor web developer at [WHJESP](http://whjsc.org/). Before now, I worked at AIG, Freedmaxick CPA's, Caplugs, Wednt Corporation, and graduated from SUNY Buffalo State in 2015.
