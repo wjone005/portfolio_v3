@@ -5,4 +5,4 @@ subtitle: 'I solve problems with software.'
 buttonText: 'Get In Touch'
 ---
 
-I’m a Los Angeles-based software engineer and tech leader, passionate about building innovative websites and web applications that push boundaries. With a strong focus on automation and scalable solutions, I thrive on solving complex problems and driving technical strategy to bring products from concept to reality.
+I’m a Los Angeles-based software engineer and tech leader, passionate about building innovative websites and web applications that push boundaries. With a strong focus on automation and scalable solutions, I thrive on solving complex problems and driving technical strategy to bring products from concept to reality. I’m also the founder of [GoHighflier](https://gohighflier.com/), a Shopify Partner studio that designs, builds, and grows online stores for fashion, beauty, and lifestyle brands.

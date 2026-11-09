@@ -1,6 +1,6 @@
 ---
 date: '2022-05-27'
-title: 'Programmer/Analyst III '
+title: 'Software Developer III'
 company: 'Los Angeles Ethics Commission'
 location: 'Los Angeles, CA'
 range: 'Aug 2021 - Present'
